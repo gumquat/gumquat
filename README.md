@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Newman-Chock</h1>
 <h3 align="center">A passionate fullstack engineer from Oklahoma, USA</h3>
 
-- 🔭 I’m currently working on [full stack web development](github.com/gumquat)
+- 🔭 I’m currently working on [earning a diploma in computer science and full stack web development](github.com/gumquat)
 
 - 🌱 I’m currently learning **Fullstack Engineering**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [medium.com/@gumquat](medium.com/@gumquat)
 
-- 💬 Ask me about **open source softwares**
+- 💬 Ask me about **creating open source softwares**
 
 - 📫 How to reach me **evannewman3d@gmail.com**
 
