@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Newman-Chock</h1>
 <h3 align="center">A passionate fullstack engineer from Oklahoma, USA</h3>
 
-- 🔭 I’m currently working on [earning a diploma in computer science and full stack web development](github.com/gumquat)
+- 🔭 I’m currently working on [earning a diploma in computer science and full stack web development]([github.com/gumquat](https://www.atlasschool.com/))
 
 - 🌱 I’m currently learning **Fullstack Engineering**
 
