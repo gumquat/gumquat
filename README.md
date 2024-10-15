@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with Enolve.
 
-- 🌱 I’m currently learning **Fullstack Engineering**
+- 🌱 I’m currently honing and growing my Fullstack Engineering skillset.
 
 - 👨‍💻 All of my projects are available at [github.com/gumquat](github.com/gumquat)
 
