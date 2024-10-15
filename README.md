@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Newman-Chock</h1>
 <h3 align="center">A passionate fullstack engineer from Oklahoma, USA</h3>
 
-- 🔭 I’m currently working with Enolve, and my own team in the creation of our product 'Whims'.
+- 🔭 I’m currently working with Enolve.
 
 - 🌱 I’m currently learning **Fullstack Engineering**
 
