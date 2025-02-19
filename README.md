@@ -9,8 +9,6 @@ https://gumquat.github.io/EvanNewmanChock.github.io/
 
 - 👨‍💻 All of my projects are available at [github.com/gumquat](github.com/gumquat)
 
-- 📝 I regularly write articles on [medium.com/@gumquat](medium.com/@gumquat)
-
 - 💬 Ask me about **creating open source softwares**
 
 - 📫 How to reach me **evannewman3d@gmail.com**
