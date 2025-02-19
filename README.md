@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Newman-Chock</h1>
 <h3 align="center">A passionate fullstack engineer from Oklahoma, USA</h3>
+Visit my website to see more about me and what I do!
+https://gumquat.github.io/EvanNewmanChock.github.io/
 
 - 🔭 I’m currently working with Enolve.
 
